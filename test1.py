@@ -1,3 +1,5 @@
+# Write a Python program to extract year, month and date from an
+# URL("https://www.washingtonpost.com/news/football-insider/wp/2016/09/02/odellbeckhams-fame-rests-on-one-stupid-little-ball-josh-norman-tells-author/")
 import re
 
 
